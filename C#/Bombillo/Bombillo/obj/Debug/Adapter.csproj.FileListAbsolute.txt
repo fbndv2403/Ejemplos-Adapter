@@ -1,0 +1,7 @@
+D:\UNIVERSIDAD DISTRITAL\2021 - 1\MODELOS\Patron Adapter\C#\Bombillo\Bombillo\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\UNIVERSIDAD DISTRITAL\2021 - 1\MODELOS\Patron Adapter\C#\Bombillo\Bombillo\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD DISTRITAL\2021 - 1\MODELOS\Patron Adapter\C#\Bombillo\Bombillo\bin\Debug\Bombillo.exe.config
+D:\UNIVERSIDAD DISTRITAL\2021 - 1\MODELOS\Patron Adapter\C#\Bombillo\Bombillo\bin\Debug\Bombillo.exe
+D:\UNIVERSIDAD DISTRITAL\2021 - 1\MODELOS\Patron Adapter\C#\Bombillo\Bombillo\bin\Debug\Bombillo.pdb
+D:\UNIVERSIDAD DISTRITAL\2021 - 1\MODELOS\Patron Adapter\C#\Bombillo\Bombillo\obj\Debug\Bombillo.exe
+D:\UNIVERSIDAD DISTRITAL\2021 - 1\MODELOS\Patron Adapter\C#\Bombillo\Bombillo\obj\Debug\Bombillo.pdb
